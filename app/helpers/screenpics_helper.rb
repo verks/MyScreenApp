@@ -1,0 +1,2 @@
+module ScreenpicsHelper
+end
